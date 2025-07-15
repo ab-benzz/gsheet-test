@@ -10,7 +10,45 @@
     "backgroundColor": "blue",
     "modalTitle": "Voucher Test",
     "modalDate": "June 27 - 30, 2025",
-    "modalSections": " "
+    "modalSections": [
+      {
+        "contentType": "list",
+        "title": "Get up to P300 OFF with a minimum purchase of P50,000 on all applicable brands",
+        "content": [
+          "Midea Small Appliance",
+          "Dowell Small Appliance",
+          "Samsung Small Appliance",
+          "Panasonic Small Appliance"
+        ]
+      },
+      {
+        "contentType": "links",
+        "title": "Where to avail",
+        "content": [
+          {
+            "text": "abenson.com",
+            "href": "https://www.abenson.com"
+          },
+          {
+            "text": "Abenson Viber Community",
+            "href": "#"
+          },
+          {
+            "text": "Abenson Hotline: (02)8811-8811",
+            "href": "tel:0288118811"
+          }
+        ]
+      },
+      {
+        "contentType": "list",
+        "title": "Terms & Conditions",
+        "content": [
+          "Promo code is valid for one time use only.",
+          "Promo terms and conditions are subject to change without prior notice.",
+          "Applicable for cash/straight online transactions only."
+        ]
+      }
+    ]
   },
   {
     "id": "B",
