@@ -1,8 +1,17 @@
 [
   {
-    "test": "test2",
-    "apple": "benz",
-    "honey": "samson",
-    "garlic": "tagle"
+    "name": "benz",
+    "company": "abenson",
+    "school": "bicol univ"
+  },
+  {
+    "name": "ralp",
+    "company": "chevron",
+    "school": "bicol univ"
+  },
+  {
+    "name": "gadbi",
+    "company": "agri sorci",
+    "school": "sorsu"
   }
 ]
